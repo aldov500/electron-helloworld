@@ -1,0 +1,15 @@
+{
+  "name": "app-one",
+  "version": "1.0.0",
+  "description": "first app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aldov500",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^18.0.4"
+  }
+}
