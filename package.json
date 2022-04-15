@@ -1,5 +1,5 @@
 {
-  "name": "app-one",
+  "name": "electron-helloworld",
   "version": "1.0.0",
   "description": "first app",
   "main": "main.js",
@@ -11,5 +11,13 @@
   "license": "ISC",
   "devDependencies": {
     "electron": "^18.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldov500/electron-helloworld.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aldov500/electron-helloworld/issues"
+  },
+  "homepage": "https://github.com/aldov500/electron-helloworld#readme"
 }
